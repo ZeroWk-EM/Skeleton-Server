@@ -13,7 +13,7 @@ import connectToMongoDB from "./configs/mongoose.db";
 const connection = connectToMongoDB();
 
 // Define PORT
-const port = Number(process.env.PORT);
+const port = process.env.PORT;
 
 // Take all route method
 import object from "./routes/objects.routes";
