@@ -1,5 +1,16 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.2.0](https://github.com/ZeroWk-EM/StarWarsAPI-Server/compare/v1.1.0...v1.2.0) (2023-03-28)
+
+
+### Features
+
+* **database:** add method to create mongodb connection with mongoose ([7aac555](https://github.com/ZeroWk-EM/StarWarsAPI-Server/commit/7aac5550c01ba5f440d203515751453d1ddd4515))
+* **root:** add routes base schema ([1050cd5](https://github.com/ZeroWk-EM/StarWarsAPI-Server/commit/1050cd51b2dbe125ee6bdbe2b2d4998f538ae6be))
+* **root:** import server dependance ([ee6f570](https://github.com/ZeroWk-EM/StarWarsAPI-Server/commit/ee6f57023ec18b200deb9ccc08918dc6cbf6beb3))
+
 ## 1.1.0 (2023-03-28)
 
 
