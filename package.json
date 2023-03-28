@@ -1,6 +1,6 @@
 {
   "name": "skeleton-server-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Skeleton for create a RESTful API server made in express, typescript e mongoose",
   "main": "app.js",
   "scripts": {
