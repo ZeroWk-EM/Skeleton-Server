@@ -6,7 +6,8 @@
   "scripts": {
     "start": "tsc && node ./dist/app.js",
     "start:dev": "tsc && nodemon ./dist/app.js",
-    "cz-init": "commitizen init cz-conventional-changelog --dev -exact"
+    "cz-init": "commitizen init cz-conventional-changelog --dev -exact",
+    "relese": "standard-version"
   },
   "repository": {
     "type": "git",
